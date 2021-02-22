@@ -4,6 +4,8 @@
 * html
     * head
         * title
+            * it is head section message for page titles. Example:
+            * `<title> This is my webpage</title>`
         * style
         * script
     * body
