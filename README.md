@@ -1,2 +1,128 @@
 # HTML-Tags-Tutorial
-HTML Tags Tutorial
+
+## HTML Tags list
+* html
+    * head
+        * title
+        * style
+        * script
+    * body
+        * p
+        * div
+        * input
+            * accept input from user. here is input example
+            * `<input type="text">`
+        * table
+        * a
+        * abbr
+        * b
+        * br
+        * button
+        * dd
+        * dl
+        * dt
+        * figure
+        * figcaption
+        * h1-h2-h3-h4-h5-h6
+        * hr
+        * i
+        * img
+        * li
+        * ol
+        * section
+        * strong
+        * sub
+        * sup
+        * table
+        * tbody
+        * td
+        * tfoot
+        * th
+        * thead
+        * tr
+        * u
+        * ul
+        * comment
+### Pending
+* acronym
+* address
+* applet
+* area
+* article
+* aside
+* audio
+* base
+* basefont
+* bdi
+* bdo
+* big
+* blockquote
+* canvas
+* caption
+* center
+* cite
+* code
+* col
+* colgroup
+* datalist
+* del
+* details
+* dfn
+* dialog
+* dir
+* em
+* embed
+* fieldset
+* font
+* footer
+* form
+* frame
+* frameset
+* header
+* iframe
+* ins
+* kbd
+* keygen
+* label
+* legend
+* link
+* main
+* map
+* mark
+* menu
+* menuitem
+* meta
+* meter
+* nav
+* noframes
+* noscript
+* object
+* optgroup
+* option
+* output
+* param
+* picture
+* pre
+* progress
+* q
+* rp
+* rt
+* ruby
+* s
+* samp
+* script
+* select
+* small
+* source
+* span
+* strike
+* style
+* summary
+* tt
+* textarea
+* time
+* track
+* var
+* video
+* wbr
+
